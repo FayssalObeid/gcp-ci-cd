@@ -1,4 +1,4 @@
-# Sample App
+# GCP CI/CD Sample App
 
 A lightweight Go application demonstrating CI/CD automation on Google Cloud Platform. This project showcases a complete pipeline from source code to containerized deployment across development and production environments.
 
